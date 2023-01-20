@@ -1,3 +1,3 @@
 # KeepMeOnline
 
-Scroll Automatically Up & Down With Given Interval Times .
+Scroll Automatically Up & Down With Given Time Intervals.
